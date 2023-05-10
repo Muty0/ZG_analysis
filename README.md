@@ -9,11 +9,12 @@ This repository contains the scripts and files for ZG analysis.
 - **selection_cut.py**: This Python script contains the event selection criteria.
 
 ## Usage
-0. preprocessing: 
+### preprocessing: 
 - Please check this page from Jing : https://gitee.com/jinggiteeee/nanoaod_framework
 - Follow Jing's instruction, you can get all the preprocessed root files.
 - Use [realpath -s *.root > path.txt] command to get your own root file path, and replace them in the input_file.py later. 
 
+### Selection and analize
 1. Clone the repository:
 git clone https://github.com/Muty0/ZG_analysis.git
 
